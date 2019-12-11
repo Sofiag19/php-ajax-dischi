@@ -9,6 +9,7 @@ body {
   background-color: rgb(115, 115, 115);
 }
 
+/* header */
 header {
   background-color: black;
   height: 40px;
@@ -20,6 +21,7 @@ header img {
   margin-left: 150px;
 }
 
+/* container */
 #container-dischi {
   display: flex;
   flex-wrap: wrap;
